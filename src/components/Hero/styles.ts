@@ -29,7 +29,7 @@ export const Form = styled.form`
 `
 
 export const HeroTitle = styled.h2`
-  .heroTitle {
+   {
     font-family: Gloock, serif;
     font-size: 48px;
   }
